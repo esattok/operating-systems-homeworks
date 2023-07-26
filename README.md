@@ -6,7 +6,6 @@ This Repository contains the homework assignments for CS 342 (Operating Systems)
 ## Homework Contents:
 
 - `homework-01`: Introduction to Linux operating system and implementation of a doubly linked list in C programming language
-- `homework-02-exercise`: An exercise homework assignment about Deadlocks, Memory, Secondary Storage, and File Systems
 - `homework-02`: Practice questions about Deadlocks, Memory, Secondary Storage, and File Systems
 
 
